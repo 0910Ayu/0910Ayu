@@ -2,6 +2,8 @@
 <br>
 <p>
 <h1> Hello!!  , <center> Ayusha </center> this side XD </h1>
+  </p>
+  <p>
 # 💫 About Me:
 B.Tech | Student | Developer<br><br>📍 Kalinga Institute of Industrial Technology (2021–2025)<br>🔹 Passionate about UI/UX Design & Development<br>🔹 Tech Enthusiast exploring Cloud, Machine Learning, & GIS
 </p>
