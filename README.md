@@ -49,7 +49,56 @@
 <!--   founding titan -->
 <!-- <img src="https://imgur.com/64S8nlU.gif" width="1080px"> -->
 </p>
-<h1 align="center">🚀 Ayusha Sharma</h1><br><br><p align="center"><br>  <strong>B.Tech | Student | Developer</strong>  <br></p><br><p align="center"><br>  📍 <i>Kalinga Institute of Industrial Technology (2021-2025)</i>   <br>🔹 <i>Passionate about UI/UX Design & Development</i>  <br>🔹 <i>Tech Enthusiast exploring Cloud, Machine Learning, & GIS</i>  <br></p> 🛠 Tech Stack  <br><p align="center"><br>  💻 <strong>Languages:</strong> C, Python, HTML, Power BI   <br>🔧 <strong>Tools & Platforms:</strong> VS Code, Figma, Adobe, PyCharm, Canva   <br>🌍 <strong>Skills:</strong> Remote Sensing & GIS, MS Office, Photoshop  <br></p> 🔥 Experience  <br><br><p align="center"><br>  👨‍🎨 <strong>UI/UX Designer</strong> – RnPSoft (Jan-Mar 2024)  <br></p><br><ul align="center"><br>  <li>✔ Figma UI/UX Essentials</li><br>  <li>✔ Google UX Foundations</li><br>  <li>✔ AWS Cloud Computing</li><br>  <li>✔ Machine Learning in GIS</li><br></ul><br><br> 🏆 Projects  <br><p align="center"><br>  🔹 <strong>Criminal Recognition System</strong> – Python-based AI solution   <br>🔹 <strong>Emotion-Based Music Recommendation</strong> – ML-powered music suggestions  <br>  <br>🔹 <strong>Lock System UI Design</strong> – Figma prototype  <br>  <br>🔹 <strong>2024 IPL Data Analysis</strong> – Python-driven analytics  <br></p><br>📫 Connect with Me  <br><br><p align="center"><br>   <br>✉️ <a href="mailto:ayushasharma1009@gmail.com"><strong>Email</strong></a>  <br></p><p align="center"><br>  ✨ <i>Let's build something amazing together!</i> 🚀  <br></p><br>
+<h1 align="center">🚀 Ayusha Sharma</h1>
+
+<p align="center"><strong>B.Tech | Student | Developer</strong></p>
+
+<p align="center">
+  📍 <i>Kalinga Institute of Industrial Technology (2021–2025)</i> <br>
+  🔹 <i>Passionate about UI/UX Design & Development</i> <br>
+  🔹 <i>Tech Enthusiast exploring Cloud, Machine Learning, & GIS</i>
+</p>
+
+---
+
+## 🛠 Tech Stack
+
+**💻 Languages:**  
+C, Python, HTML, Power BI
+
+**🔧 Tools & Platforms:**  
+VS Code, Figma, Adobe, PyCharm, Canva
+
+**🌍 Skills:**  
+Remote Sensing & GIS, MS Office, Photoshop
+
+---
+
+## 🔥 Experience
+
+**👨‍🎨 UI/UX Designer – RnPSoft** *(Jan – Mar 2024)*  
+- ✔ Figma UI/UX Essentials  
+- ✔ Google UX Foundations  
+- ✔ AWS Cloud Computing  
+- ✔ Machine Learning in GIS  
+
+---
+
+## 🏆 Projects
+
+- 🔹 **Criminal Recognition System** – Python-based AI solution  
+- 🔹 **Emotion-Based Music Recommendation** – ML-powered music suggestions  
+- 🔹 **Lock System UI Design** – Figma prototype  
+- 🔹 **2024 IPL Data Analysis** – Python-driven analytics  
+
+---
+
+## 📫 Connect with Me
+
+📧 [Email](mailto:ayushasharma1009@gmail.com)
+
+<p align="center"><i>✨ Let's build something amazing together! 🚀</i></p>
+
 
 
 🌐 Socials:
