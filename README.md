@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/564x/6d/36/ed/6d36edb92a9ff60726446fd06e4a57a5.jpg" alt="Girl using laptop cartoon" width="400">
+<br>
 # 💫 About Me:
 B.Tech | Student | Developer<br><br>📍 Kalinga Institute of Industrial Technology (2021–2025)<br>🔹 Passionate about UI/UX Design & Development<br>🔹 Tech Enthusiast exploring Cloud, Machine Learning, & GIS
 
