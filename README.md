@@ -1,4 +1,4 @@
-<img src="https://wallpapers-clan.com/wp-content/uploads/2023/09/cute-anime-girl-sitting-at-computer-desk-sticker-preview.jpg" >
+<img src=https://thumbs.dreamstime.com/b/african-girl-gamer-streamer-cat-ears-headset-sits-front-computer-her-mouse-keyboard-cartoon-anime-style-vector-271180883.jpg width="800" >
 <br>
 # 💫 About Me:
 B.Tech | Student | Developer<br><br>📍 Kalinga Institute of Industrial Technology (2021–2025)<br>🔹 Passionate about UI/UX Design & Development<br>🔹 Tech Enthusiast exploring Cloud, Machine Learning, & GIS
