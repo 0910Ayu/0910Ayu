@@ -1,9 +1,10 @@
 <img src=https://thumbs.dreamstime.com/b/african-girl-gamer-streamer-cat-ears-headset-sits-front-computer-her-mouse-keyboard-cartoon-anime-style-vector-271180883.jpg width="500" >
 <br>
+<p>
 <h1> Hello!!  , <center> Ayusha </center> this side XD </h1>
 # 💫 About Me:
 B.Tech | Student | Developer<br><br>📍 Kalinga Institute of Industrial Technology (2021–2025)<br>🔹 Passionate about UI/UX Design & Development<br>🔹 Tech Enthusiast exploring Cloud, Machine Learning, & GIS
-
+</p>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_ayusha_sharma?igshid=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ www.linkedin.com/in/ayusha-sharma-5b1468275 SUPERSET ID - 4957275) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Ayusha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushasharma1009@gmail.com) 
