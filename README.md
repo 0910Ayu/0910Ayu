@@ -1,5 +1,3 @@
-<img src=https://thumbs.dreamstime.com/b/african-girl-gamer-streamer-cat-ears-headset-sits-front-computer-her-mouse-keyboard-cartoon-anime-style-vector-271180883.jpg width="500" >
-<br>
 <p>
 <h1> Hello!!  , <center> Ayusha </center> this side XD </h1>
   </p>
